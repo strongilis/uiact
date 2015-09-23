@@ -1,12 +1,12 @@
 /****************************************************************************************************
-*   Stanford Theming File
-*
-*   Contains all the theme color definitions for the Stanford Open Source MOOC Project
-*
+*   Ubuntu International Acadmey of Commerce & Technology (UIACT)
+*   Ubuntu Live Mentor Learning (TM)
+*   A member company of the Ubuntu Investment Group (PTY) LTD.
+*   Copyright (C) 2015 Ubuntu Investment Group (PTY) LTD. All Rights Reserved.
 ****************************************************************************************************/
 
 //-----------------
-//  Color variables (from Stanford palette unless noted)
+//  Colour Variables for UIACT LML System (C) 2015 Ubuntu Investment Group (PTY) LTD.
 //-----------------
 
 //Main Color Variables
@@ -37,8 +37,6 @@ $white: $gray-1;
 $black: #2e2e2e;
 $black-80: #585858;
 
-
-
 //-----------------
 //  Font Assignment
 //-----------------
@@ -49,9 +47,6 @@ $body-font-family: $sans-serif;
 
 $theme-serif-font: 'Crimson Text';
 $serif: $theme-serif-font, $serif;
-
-
-
 
 //-----------------
 //  Theme Element Assignments
@@ -185,12 +180,12 @@ $footer_margin: ($baseline/4) 0;
 //-----------------
 //  CSS BG Images
 //-----------------
-$homepage-bg-image: url('../themes/default/images/sunrise.jpg');
+$homepage-bg-image: url('../themes/uiact/images/uiact-online-training.jpg');
 
 $login-banner-image: none;
 $register-banner-image: none;
 
-$video-thumb-url: '../themes/default/images/edx.png';
+$video-thumb-url: '../themes/uiact/images/uiact-video-thumb.png';
 
 //-----------------
 //  Mixin Styles
